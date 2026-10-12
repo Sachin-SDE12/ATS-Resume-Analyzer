@@ -233,8 +233,7 @@ with st.sidebar:
     st.title("👨‍💻 Developer")
 
     st.markdown("""
-    **Sachin Kumar**
-    **Abhishek pal**
+    **Sachin Kumar and Abhishek pal**
     
     AI/ML Engineer | Full Stack Developer
     
