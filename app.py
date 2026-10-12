@@ -234,6 +234,7 @@ with st.sidebar:
 
     st.markdown("""
     **Sachin Kumar**
+    **Abhishek pal**
     
     AI/ML Engineer | Full Stack Developer
     
